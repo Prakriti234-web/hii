@@ -1,0 +1,175 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.profile-photo img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.Abouts {
+    display: inline-block;
+    padding: 10px; /* Fixed incorrect "Padding;" to "padding:" */
+    position: absolute;
+    bottom: 550px;
+}
+
+.profile-photo {
+    text-align: center;
+    margin: 10px;
+    margin-right: 400px;
+}
+
+.project-list {
+    display: flex;
+    text-align: center;
+    gap: 10%;
+    /* justify-content: center; */
+    padding-bottom: 50px;
+}
+
+.heading1 {
+    padding: 10px 10px;
+}
+
+.projects {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    color:burlywood;
+}
+
+.projectsbox{
+    background-color:brown;
+    color:black;
+    width:200px;
+    height:100px;
+    border-radius:10px;
+    box-shadow: 0 4px 8px rgba(0,0,,0,0,1);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-weight:bold;
+    font-size:16px;
+}
+*
+}
+
+.Abouts {
+    display: inline-block;
+    padding: 10px; /* Fixed incorrect "Padding;" to "padding:" */
+    position: absolute;
+    bottom: 550px;
+}
+
+.profile-photo {
+    text-align: center;
+    margin: 10px;
+    margin-right: 400px;
+}
+
+.project-list {
+    display: flex;
+    text-align: center;
+    gap: 10%;
+    /* justify-content: center; */
+    padding-bottom: 50px;
+}
+
+.heading1 {
+    padding: 10px 10px;
+}
+
+.projects {
+    background-color: rgb(108, 56, 56);
+    text-align: center;
+    padding: 20px;
+    color: antiquewhite;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.profile-photo img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.Abouts {
+    display: inline-block;
+    padding: 10px; /* Fixed incorrect "Padding;" to "padding:" */
+    position: absolute;
+    bottom: 550px;
+}
+
+.profile-photo {
+    text-align: center;
+    margin: 10px;
+    margin-right: 400px;
+}
+.project{
+    padding:40px;
+}
+.project-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.project-box {
+    width:30%;
+    background-color: white;
+    padding:20px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0,1);
+    font-size: 18px;
+}
+.Quiz-app{
+    margin-bottom: 0%;
+    position:absolute;
+    right: 50px;
+}
+.E-commerce app{
+    margin-right: auto;
+    margin-bottom: 0%;
+}
+.dashboard{
+    margin-left:auto;
+}
+
+
+
+
+
+.contact {
+    background-color: blueviolet;
+    padding: 40px;
+    text-align: center;
+}
+
+.contact input {
+    padding: 10px;
+    margin: 8px 0;
+    width: 80%;
+    max-width: 400px;
+    border: none;
+    border-radius: 5px;
+}
